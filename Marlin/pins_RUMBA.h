@@ -33,22 +33,22 @@
   #define Z_MIN_PROBE_PIN  33
 #endif
 
-#define E0_STEP_PIN        23
-#define E0_DIR_PIN         22
-#define E0_ENABLE_PIN      24
+#define Z2_STEP_PIN        23
+#define Z2_DIR_PIN         22
+#define Z2_ENABLE_PIN      24
 
-#define E1_STEP_PIN        26
-#define E1_DIR_PIN         25
-#define E1_ENABLE_PIN      27
+#define E0_STEP_PIN        26
+#define E0_DIR_PIN         25
+#define E0_ENABLE_PIN      27
 
-#define E2_STEP_PIN        29
-#define E2_DIR_PIN         28
-#define E2_ENABLE_PIN      39
+#define E1_STEP_PIN        29
+#define E1_DIR_PIN         28
+#define E1_ENABLE_PIN      39
 
 #define LED_PIN            13
 
-#define FAN_PIN             7
-#define FAN1_PIN            8
+#define FAN1_PIN             7
+#define FAN_PIN            8
 
 #define PS_ON_PIN          45
 #define KILL_PIN           46
