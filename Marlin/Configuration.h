@@ -889,7 +889,7 @@
 
 // Homing speeds (mm/m)
 #define HOMING_FEEDRATE_XY (150*60)
-#define HOMING_FEEDRATE_Z  (300*60)
+#define HOMING_FEEDRATE_Z  (10*60)
 
 //=============================================================================
 //============================= Additional Features ===========================
